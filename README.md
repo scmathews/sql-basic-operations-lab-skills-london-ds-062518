@@ -17,7 +17,7 @@ NASA wants to go to Mars!  Before they build their rocket, NASA needs to track i
 
 #### Create a table
 
-* Go to SQLite broswer and create a new database called `nasa`. 
+* Go to SQLite browser and create a new database called `nasa`. 
 * Write an SQL statement to use the `CREATE TABLE` command seen earlier to create a table called `planets`  in 'Execute SQL' tab.  
 Remember, your statement should look like the following:
 
